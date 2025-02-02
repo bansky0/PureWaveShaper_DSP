@@ -1,4 +1,5 @@
-
+#pragma once
+#define JL_PWS_H_INCLUDED
 /*******************************************************************************
  The block below describes the properties of this module, and is read by
  the Projucer to automatically generate project code that uses it.
@@ -21,10 +22,6 @@
  END_JUCE_MODULE_DECLARATION
 
 *******************************************************************************/
-
-
-#pragma once
-#define JL_PWS_H_INCLUDED
 
 #include <juce_core/juce_core.h>
 #include <juce_audio_basics/juce_audio_basics.h>
