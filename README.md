@@ -1,8 +1,8 @@
 # JL_PWS - PureWaveShaper DSP Module
 
-🌎 **Selecciona tu idioma / Select your language:**  
+🌎 **Select your language: / Selecciona tu idioma:**  
 
-🇪🇸 [Español](#jl_pws---purewaveshaper-modulo-dsp-versióm-español) | 🇬🇧 [English](#jl_pws---purewaveshaper-dsp-module)  
+🇬🇧 [English](#jl_pws---purewaveshaper-dsp-module) | 🇪🇸 [Español](#jl_pws---purewaveshaper-modulo-dsp-versióm-español)
 
 ---
 🎛️ PureWaveShaper is a JUCE module that contains a collection of audio processing algorithms, including modulation, distortion, filters, delay effects, and more.
